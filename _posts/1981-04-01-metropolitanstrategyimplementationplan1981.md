@@ -9,4 +9,4 @@ title:  "Metropolitan Strategy Implementation Plan 1981"
 
 **Year**: 1981
 
-**Download**: [Download](../docs/metropolitanplanimplementationstrategy1981.pdf)
+**Download**: [Download](./docs/metropolitanplanimplementationstrategy1981.pdf)
