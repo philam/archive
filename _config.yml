@@ -2,6 +2,7 @@ theme: Minima
 title: Document Archive
 description: A site to store old planning and transport documents. <br> By <a href="https://philipmallis.com">Philip Mallis</a>.
 permalink: pretty
+show_excerpts: true
 
 ## Vanity
 minima:
