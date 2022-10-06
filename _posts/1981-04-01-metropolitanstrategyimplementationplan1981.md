@@ -5,6 +5,6 @@ title:  "Metropolitan Strategy Implementation Plan 1981"
 
 # Metropolitan Strategy Implementation Plan 1981
 
-Author: Melbourne and Metropolitan Board of Works
-Year: 1981
-Download: ./docs/metropolitanplanimplementationstrategy1981.pdf
+<p>**Author**: Melbourne and Metropolitan Board of Works</p>
+<p>**Year**: 1981</p>
+<p>**Download**: [Download](./docs/metropolitanplanimplementationstrategy1981.pdf)</p>
