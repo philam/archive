@@ -6,12 +6,9 @@ show_excerpts: true
 baseurl: /archive
 
 ## Vanity
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/philam" }
-    - { platform: flickr, user_url: "https://flickr.com/philipmallis" }
-    - { platform: youtube, user_url: "https://youtube.com/philipmallis" }
+github_username: philam
+flickr_username: philipmallis
+rss: rss
     
 ## De-Americanising
-minima:
-  date_format: "%-d %b %Y"
+date_format: "%-d %b %Y"
