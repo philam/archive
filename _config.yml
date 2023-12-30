@@ -13,3 +13,7 @@ minima:
     youtube: philipmallis
     youtube_channel: UC72AJxecUNtw2weOtdM-sdA
     youtube_channel_name: Philip Mallis
+
+## De-Americanising
+minima:
+  date_format: "%-d %b %Y"
