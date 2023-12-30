@@ -7,13 +7,10 @@ show_excerpts: true
 ## Vanity
 minima:
   social_links:
-    twitter: philipmallis
-    github: philam
-    flickr: philipmallis
-    youtube: philipmallis
-    youtube_channel: UC72AJxecUNtw2weOtdM-sdA
-    youtube_channel_name: Philip Mallis
-
+    - { platform: github,  user_url: "https://github.com/philam" }
+    - { platform: flickr, user_url: "https://flickr.com/philipmallis" }
+    - { platform: youtube, user_url: "https://youtube.com/philipmallis" }
+    
 ## De-Americanising
 minima:
   date_format: "%-d %b %Y"
