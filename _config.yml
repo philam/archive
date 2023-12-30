@@ -3,6 +3,7 @@ title: Document Archive for Planning and Transport
 description: A site to store old planning and transport documents. By [Philip Mallis](https://philipmallis.com).
 permalink: /:categories/:title
 show_excerpts: true
+baseurl: /archive
 
 ## Vanity
 minima:
