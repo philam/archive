@@ -7,9 +7,10 @@
 
     {%- include header.html -%}
 
-    {% include search-lunr.html %}
-
     <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+            {% include search-lunr.html %}
+      </div>
       <div class="wrapper">
         {{ content }}
       </div>
