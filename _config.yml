@@ -1,6 +1,6 @@
 theme: Minima
 title: Document Archive for Planning and Transport
-description: A site to store old planning and transport documents. By <a href="https://philipmallis.com">Philip Mallis</a>.
+description: A site to store old planning and transport documents. By Philip Mallis.
 permalink: /:categories/:title
 show_excerpts: true
 baseurl: /archive
